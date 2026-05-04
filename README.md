@@ -1,4 +1,9 @@
 # STM32-Bidirectional-Motor-Control-OLED
+
+### Video Proiect
+[![Vizualizează Video](https://img.youtube.com/vi/iiBoR9vVaX8/0.jpg)](https://youtube.com/shorts/iiBoR9vVaX8)
+
+
 Sistem de control bidirecțional pentru un motor DC folosind PWM, ADC și un afișaj OLED I2C pe STM32L476RG
 1. Ideea de baza este: un potențiometru controlează viteza și direcția unui motor DC, iar un display OLED afișează în permanență starea sistemului. Potențiometrul este singura intrare, iar ieșirile sunt semnalul PWM (care controlează viteza prin duty cycle) și cei doi pini de direcție (care controlează sensul curentului prin puntea H).
 
