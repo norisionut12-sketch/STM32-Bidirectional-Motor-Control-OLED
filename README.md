@@ -1,7 +1,7 @@
 # STM32-Bidirectional-Motor-Control-OLED
 
 ### Video Proiect
-[![Vizualizează Video](https://img.youtube.com/vi/iiBoR9vVaX8/0.jpg)](https://youtube.com/shorts/iiBoR9vVaX8)
+[![Video Proiect](https://img.youtube.com/vi/iiBoR9vVaX8/hqdefault.jpg)](https://youtube.com/shorts/iiBoR9vVaX8)
 
 
 Sistem de control bidirecțional pentru un motor DC folosind PWM, ADC și un afișaj OLED I2C pe STM32L476RG
